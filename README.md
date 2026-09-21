@@ -4,29 +4,31 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=KARTIKEYA%20SINHA&fontSize=44&fontColor=e2e8f0&fontAlignY=35&desc=%E2%9A%A1%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" width="100%" />
 
   <br />
 
+  <!-- ░░░ MATRIX TERMINAL ░░░ -->
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+6%2B+Years+Building+Production+Systems;%3E+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%3E+60%2C000%2B+Transactions%2FWeek+%E2%80%A2+45%25+Faster+Renders" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" alt="Matrix Typing" />
   </a>
 
   <br />
 
+  <!-- ░░░ SOCIAL LINKS — MATRIX STYLE ░░░ -->
   <a href="https://linkedin.com/in/kartikeyasinha24">
-    <img src="https://img.shields.io/badge/-%2Fkartikeyasinha24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>&nbsp;
   <a href="mailto:kartiks.2529@gmail.com">
-    <img src="https://img.shields.io/badge/-kartiks.2529-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>&nbsp;
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://img.shields.io/badge/-kartikeyasinha24-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" />
   </a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=533483&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
 
 </div>
 
