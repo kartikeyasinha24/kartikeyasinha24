@@ -38,9 +38,10 @@
 <!--                           ABOUT                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%9A%A1_SYSTEM_PROFILE-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B8_SYSTEM__PROFILE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
 
 ```yaml
+# ─── SYSTEM PROFILE ─────────────────────────────────────────────────────
 name       : Kartikeya Sinha
 role       : Senior Software Developer
 location   : Lucknow, India
@@ -61,6 +62,7 @@ impact:
   cost_savings    : "↓ 98% messaging costs"
 
 status: "🟢 ONLINE"
+# ─────────────────────────────────────────────────────────────────────────
 ```
 
 <br />
@@ -69,7 +71,7 @@ status: "🟢 ONLINE"
 <!--                         CAREER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%93%A1_CAREER_LOG-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B8_CAREER__LOG-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
 
 <table>
   <tr>
@@ -100,19 +102,19 @@ status: "🟢 ONLINE"
 <!--                        TECH STACK                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_TECH_ARSENAL-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
 
 <div align="center">
 <br />
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Mobile & Embedded** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white) ![Yocto](https://img.shields.io/badge/Yocto-0C74B2?style=flat-square&logo=linux&logoColor=white) ![BLE/GATT](https://img.shields.io/badge/BLE%2FGATT-0082FC?style=flat-square&logo=bluetooth&logoColor=white) ![Firebase](https://img.shields.io/badge/FCM-DD2C00?style=flat-square&logo=firebase&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=openai&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-2C3E50?style=flat-square&logo=googlecloud&logoColor=white) |
-| **Infra & Cloud** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Certifications** | ![HackerRank](https://img.shields.io/badge/Python_&_Problem_Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white) ![IBM](https://img.shields.io/badge/Data_Analysis-054ADA?style=flat-square&logo=ibm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **`Languages`** | ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41) ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41) ![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) |
+| **`Mobile & Embedded`** | ![Android](https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41) ![AOSP](https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41) ![Yocto](https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41) ![BLE/GATT](https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41) ![FCM](https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41) |
+| **`Frameworks`** | ![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41) ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41) ![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41) ![Qt](https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41) |
+| **`AI / ML`** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41) ![scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41) ![NLP](https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41) ![OCR](https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41) |
+| **`Infra & Cloud`** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41) ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41) ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41) ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41) |
+| **`Certifications`** | ![HackerRank](https://img.shields.io/badge/Python_&_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41) ![IBM](https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41) |
 
 </div>
 
@@ -122,7 +124,7 @@ status: "🟢 ONLINE"
 <!--                       PROJECTS                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_FEATURED_PROJECTS-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B8_FEATURED__PROJECTS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
 
 <div align="center">
 <br />
@@ -130,33 +132,39 @@ status: "🟢 ONLINE"
 <tr>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏥-0d1117?style=flat-square" width="60" height="60" />
+<br />
+<img src="https://img.shields.io/badge/❤️‍🩹-0a0a0a?style=flat-square" width="50" height="50" />
 <br />
 <strong>Medical Health Monitor</strong>
 <br />
-<sub><code>i.MX 8M Plus · Yocto · Real-Time</code></sub>
+<sub><img src="https://img.shields.io/badge/i.MX_8M_Plus-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>Real-time patient vitals monitoring on embedded Linux, optimized for low-latency sensor data acquisition.</sub>
+<br /><br />
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏎️-0d1117?style=flat-square" width="60" height="60" />
+<br />
+<img src="https://img.shields.io/badge/🏎️-0a0a0a?style=flat-square" width="50" height="50" />
 <br />
 <strong>Instrument Cluster</strong>
 <br />
-<sub><code>C++ · Qt · Embedded GPU</code></sub>
+<sub><img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Embedded_GPU-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>Automotive-grade digital cluster with speedometer, RPM, and telemetry rendered on embedded GPU.</sub>
+<br /><br />
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖-0d1117?style=flat-square" width="60" height="60" />
+<br />
+<img src="https://img.shields.io/badge/🤖-0a0a0a?style=flat-square" width="50" height="50" />
 <br />
 <strong>AI Detection Suite</strong>
 <br />
-<sub><code>NPU · TensorFlow · Real-Time</code></sub>
+<sub><img src="https://img.shields.io/badge/NPU-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>NPU-accelerated multi-model inference for object detection, face recognition, and emotion analysis.</sub>
+<br /><br />
 </td>
 
 </tr>
@@ -169,22 +177,22 @@ status: "🟢 ONLINE"
 <!--                       METRICS                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8A_GITHUB_ANALYTICS-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B8_GITHUB__ANALYTICS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
 
 <div align="center">
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=94a3b8&ring_color=a78bfa" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyasinha24&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyasinha24&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasinha24&bg_color=0d1117&color=a78bfa&line=818cf8&point=c084fc&area=true&area_color=533483&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasinha24&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%24%20git%20log%20--graph%20--oneline" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -208,8 +216,8 @@ status: "🟢 ONLINE"
 <!--                          FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,25:0f3460,50:16213e,75:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <sub><code>[ SYSTEM UPTIME: 6+ YEARS ]</code> · Built with precision by <strong>Kartikeya Sinha</strong></sub>
+  <img src="https://img.shields.io/badge/%5B_SYSTEM_UPTIME%3A_6%2B_YEARS_%5D-0a0a0a?style=flat-square&labelColor=0a0a0a&color=003300" />
 </div>
