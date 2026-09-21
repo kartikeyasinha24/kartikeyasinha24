@@ -4,31 +4,56 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" width="100%" />
+  <!-- ░░░ HERO BANNER — DUAL THEME ADAPTIVE ░░░ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,25:f0fdf4,50:dcfce7,75:86efac,100:16a34a&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=065f46&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=047857&descAlignY=55&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" width="100%" alt="Kartikeya Sinha Banner" />
+  </picture>
 
   <br />
 
-  <!-- ░░░ MATRIX TERMINAL ░░░ -->
+  <!-- ░░░ TERMINAL TYPING — DUAL THEME ADAPTIVE ░░░ -->
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" alt="Matrix Typing" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=059669&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" alt="Matrix Typing" />
+    </picture>
   </a>
 
   <br />
 
-  <!-- ░░░ SOCIAL LINKS — MATRIX STYLE ░░░ -->
+  <!-- ░░░ SOCIAL LINKS — DUAL THEME ADAPTIVE ░░░ -->
   <a href="https://www.linkedin.com/in/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+    </picture>
   </a>&nbsp;
   <a href="mailto:kartiks.2529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+    </picture>
   </a>&nbsp;
   <a href="https://github.com/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+    </picture>
   </a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=059669&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=kartikeyasinha24&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" />
+  </picture>
 
 </div>
 
@@ -38,7 +63,11 @@
 <!--                           ABOUT                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%96%B8_SYSTEM__PROFILE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B8_SYSTEM__PROFILE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%E2%96%B8_SYSTEM__PROFILE-059669?style=for-the-badge&labelColor=059669&color=064e3b" />
+  <img src="https://img.shields.io/badge/%E2%96%B8_SYSTEM__PROFILE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="System Profile" />
+</picture>
 
 ```yaml
 # ─── SYSTEM PROFILE ─────────────────────────────────────────────────────
@@ -71,7 +100,11 @@ status: "🟢 ONLINE"
 <!--                         CAREER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%96%B8_CAREER__LOG-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B8_CAREER__LOG-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%E2%96%B8_CAREER__LOG-059669?style=for-the-badge&labelColor=059669&color=064e3b" />
+  <img src="https://img.shields.io/badge/%E2%96%B8_CAREER__LOG-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="Career Log" />
+</picture>
 
 <table>
   <tr>
@@ -102,22 +135,26 @@ status: "🟢 ONLINE"
 <!--                        TECH STACK                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-059669?style=for-the-badge&labelColor=059669&color=064e3b" />
+  <img src="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="Tech Arsenal" />
+</picture>
 
 <div align="center">
 <br />
 
-`Languages` · <img src="https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41" />
+`Languages` · <img src="https://img.shields.io/badge/Kotlin-24292e?style=flat-square&logo=kotlin&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-24292e?style=flat-square&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SQL-24292e?style=flat-square&logo=postgresql&logoColor=00FF41" />
 
-`Mobile & Embedded` · <img src="https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41" /> <img src="https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41" /> <img src="https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41" />
+`Mobile & Embedded` · <img src="https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Jetpack_Compose-24292e?style=flat-square&logo=jetpackcompose&logoColor=00FF41" /> <img src="https://img.shields.io/badge/AOSP-24292e?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-24292e?style=flat-square&logo=linux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/BLE%2FGATT-24292e?style=flat-square&logo=bluetooth&logoColor=00FF41" /> <img src="https://img.shields.io/badge/FCM-24292e?style=flat-square&logo=firebase&logoColor=00FF41" />
 
-`Frameworks` · <img src="https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41" /> <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41" />
+`Frameworks` · <img src="https://img.shields.io/badge/Django-24292e?style=flat-square&logo=django&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Node.js-24292e?style=flat-square&logo=nodedotjs&logoColor=00FF41" /> <img src="https://img.shields.io/badge/React-24292e?style=flat-square&logo=react&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Angular-24292e?style=flat-square&logo=angular&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=qt&logoColor=00FF41" />
 
-`AI / ML` · <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41" /> <img src="https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41" />
+`AI / ML` · <img src="https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logo=tensorflow&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Scikit--learn-24292e?style=flat-square&logo=scikitlearn&logoColor=00FF41" /> <img src="https://img.shields.io/badge/NLP-24292e?style=flat-square&logo=openai&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OCR-24292e?style=flat-square&logo=googlecloud&logoColor=00FF41" />
 
-`Infra & Cloud` · <img src="https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41" />
+`Infra & Cloud` · <img src="https://img.shields.io/badge/AWS_Lambda-24292e?style=flat-square&logo=awslambda&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB-24292e?style=flat-square&logo=mongodb&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MySQL-24292e?style=flat-square&logo=mysql&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=00FF41" />
 
-`Certifications` · <img src="https://img.shields.io/badge/Python_%26_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" />
+`Certifications` · <img src="https://img.shields.io/badge/Python_%26_Problem_Solving-24292e?style=flat-square&logo=hackerrank&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Data_Analysis-24292e?style=flat-square&logo=ibm&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB_Certified-24292e?style=flat-square&logo=mongodb&logoColor=00FF41" />
 
 </div>
 
@@ -127,7 +164,11 @@ status: "🟢 ONLINE"
 <!--                       PROJECTS                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%96%B8_FEATURED__PROJECTS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B8_FEATURED__PROJECTS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%E2%96%B8_FEATURED__PROJECTS-059669?style=for-the-badge&labelColor=059669&color=064e3b" />
+  <img src="https://img.shields.io/badge/%E2%96%B8_FEATURED__PROJECTS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="Featured Projects" />
+</picture>
 
 <div align="center">
 <br />
@@ -136,11 +177,10 @@ status: "🟢 ONLINE"
 
 <td align="center" width="33%">
 <br />
-<img src="https://img.shields.io/badge/❤️‍🩹-0a0a0a?style=flat-square" width="50" height="50" />
-<br />
+<div style="font-size: 32px">❤️‍🩹</div>
 <strong>Medical Health Monitor</strong>
 <br />
-<sub><img src="https://img.shields.io/badge/i.MX_8M_Plus-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
+<sub><img src="https://img.shields.io/badge/i.MX_8M_Plus-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-24292e?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>Real-time patient vitals monitoring on embedded Linux, optimized for low-latency sensor data acquisition.</sub>
 <br /><br />
@@ -148,11 +188,10 @@ status: "🟢 ONLINE"
 
 <td align="center" width="33%">
 <br />
-<img src="https://img.shields.io/badge/🏎️-0a0a0a?style=flat-square" width="50" height="50" />
-<br />
+<div style="font-size: 32px">🏎️</div>
 <strong>Instrument Cluster</strong>
 <br />
-<sub><img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Embedded_GPU-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
+<sub><img src="https://img.shields.io/badge/C++-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Embedded_GPU-24292e?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>Automotive-grade digital cluster with speedometer, RPM, and telemetry rendered on embedded GPU.</sub>
 <br /><br />
@@ -160,11 +199,10 @@ status: "🟢 ONLINE"
 
 <td align="center" width="33%">
 <br />
-<img src="https://img.shields.io/badge/🤖-0a0a0a?style=flat-square" width="50" height="50" />
-<br />
+<div style="font-size: 32px">🤖</div>
 <strong>AI Detection Suite</strong>
 <br />
-<sub><img src="https://img.shields.io/badge/NPU-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-0a0a0a?style=flat-square&logoColor=00FF41" /></sub>
+<sub><img src="https://img.shields.io/badge/NPU-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Real--Time-24292e?style=flat-square&logoColor=00FF41" /></sub>
 <br /><br />
 <sub>NPU-accelerated multi-model inference for object detection, face recognition, and emotion analysis.</sub>
 <br /><br />
@@ -180,29 +218,49 @@ status: "🟢 ONLINE"
 <!--                       METRICS                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%96%B8_GITHUB__ANALYTICS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B8_GITHUB__ANALYTICS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%E2%96%B8_GITHUB__ANALYTICS-059669?style=for-the-badge&labelColor=059669&color=064e3b" />
+  <img src="https://img.shields.io/badge/%E2%96%B8_GITHUB__ANALYTICS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="GitHub Analytics" />
+</picture>
 
 <div align="center">
 <br />
 
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
+      <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&text_color=1e293b&langs_count=8" />
+      <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
+    </picture>
   </a>
 
   <br /><br />
 
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=d0d7de&background=ffffff&ring=059669&fire=10b981&currStreakLabel=059669&sideLabels=1e293b&currStreakNum=059669&sideNums=1e293b&dates=64748b" />
+      <img src="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
+    </picture>
   </a>
 
   <br /><br />
 
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" width="95%" alt="Contribution Graph" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=default" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" width="95%" alt="Contribution Graph" />
+    </picture>
   </a>
 
 </div>
@@ -227,8 +285,16 @@ status: "🟢 ONLINE"
 <!--                          FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,25:86efac,50:dcfce7,75:f0fdf4,100:ffffff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer Banner" />
+</picture>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%5B_SYSTEM_UPTIME%3A_6%2B_YEARS_%5D-0a0a0a?style=flat-square&labelColor=0a0a0a&color=003300" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%5B_SYSTEM_UPTIME%3A_6%2B_YEARS_%5D-0a0a0a?style=flat-square&labelColor=0a0a0a&color=003300" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%5B_SYSTEM_UPTIME%3A_6%2B_YEARS_%5D-f0fdf4?style=flat-square&labelColor=059669&color=064e3b" />
+    <img src="https://img.shields.io/badge/%5B_SYSTEM_UPTIME%3A_6%2B_YEARS_%5D-0a0a0a?style=flat-square&labelColor=0a0a0a&color=003300" alt="System Uptime" />
+  </picture>
 </div>
