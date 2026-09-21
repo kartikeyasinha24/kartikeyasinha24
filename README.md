@@ -14,38 +14,18 @@
   <br />
 
   <!-- ░░░ TERMINAL TYPING — DUAL THEME ADAPTIVE ░░░ -->
-  <a href="https://github.com/kartikeyasinha24">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=059669&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" alt="Matrix Typing" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=059669&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=90&lines=%24+6%2B+years+building+production+systems;%24+Android+%E2%80%A2+AOSP+%E2%80%A2+Yocto+%E2%80%A2+Django+%E2%80%A2+Node.js;%24+60%2C000%2B+transactions%2Fweek+%E2%80%A2+45%25+faster+renders;%24+wake+up%2C+Neo...+the+Matrix+has+you" alt="Matrix Typing" />
+  </picture>
 
   <br />
 
   <!-- ░░░ SOCIAL LINKS — DUAL THEME ADAPTIVE ░░░ -->
-  <a href="https://www.linkedin.com/in/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
-    </picture>
-  </a>&nbsp;
-  <a href="mailto:kartiks.2529@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
-    </picture>
-  </a>&nbsp;
-  <a href="https://github.com/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/kartikeyasinha24" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></picture></a>&nbsp;
+  <a href="mailto:kartiks.2529@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></picture></a>&nbsp;
+  <a href="https://github.com/kartikeyasinha24" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" /></picture></a>
 
   <br /><br />
 
@@ -237,41 +217,33 @@ status: "🟢 ONLINE"
 <div align="center">
 <br />
 
-  <a href="https://github.com/kartikeyasinha24">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
-      <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
+    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+  </picture>
   &nbsp;&nbsp;
-  <a href="https://github.com/kartikeyasinha24">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&text_color=1e293b&langs_count=8" />
-      <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&text_color=1e293b&langs_count=8" />
+    <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
+  </picture>
 
   <br /><br />
 
-  <a href="https://github.com/kartikeyasinha24">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=d0d7de&background=ffffff&ring=059669&fire=10b981&currStreakLabel=059669&sideLabels=1e293b&currStreakNum=059669&sideNums=1e293b&dates=64748b" />
-      <img src="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=d0d7de&background=ffffff&ring=059669&fire=10b981&currStreakLabel=059669&sideLabels=1e293b&currStreakNum=059669&sideNums=1e293b&dates=64748b" />
+    <img src="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=false&border=00FF41&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
+  </picture>
 
   <br /><br />
 
-  <a href="https://github.com/kartikeyasinha24">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=default" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" width="95%" alt="Contribution Graph" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" width="95%" alt="Contribution Graph" />
+  </picture>
 
 </div>
 
