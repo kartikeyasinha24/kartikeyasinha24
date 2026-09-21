@@ -16,14 +16,14 @@
   <br />
 
   <!-- ░░░ SOCIAL LINKS — MATRIX STYLE ░░░ -->
-  <a href="https://linkedin.com/in/kartikeyasinha24">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  <a href="https://www.linkedin.com/in/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:kartiks.2529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
   </a>&nbsp;
-  <a href="https://github.com/kartikeyasinha24">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <a href="https://github.com/kartikeyasinha24" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
   </a>
 
   <br /><br />
@@ -107,14 +107,20 @@ status: "🟢 ONLINE"
 <div align="center">
 <br />
 
-| Domain | Technologies |
-| :--- | :--- |
-| **`Languages`** | ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41) ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41) ![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) |
-| **`Mobile & Embedded`** | ![Android](https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41) ![AOSP](https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41) ![Yocto](https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41) ![BLE/GATT](https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41) ![FCM](https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41) |
-| **`Frameworks`** | ![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41) ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41) ![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41) ![Qt](https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41) |
-| **`AI / ML`** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41) ![scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41) ![NLP](https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41) ![OCR](https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41) |
-| **`Infra & Cloud`** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41) ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41) ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41) ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41) |
-| **`Certifications`** | ![HackerRank](https://img.shields.io/badge/Python_&_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41) ![IBM](https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41) |
+<table>
+<tr><td><strong><code>Languages</code></strong></td>
+<td><img src="https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41" alt="Kotlin" /> <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41" alt="Python" /> <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41" alt="C++" /> <img src="https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41" alt="SQL" /></td></tr>
+<tr><td><strong><code>Mobile & Embedded</code></strong></td>
+<td><img src="https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" alt="Android" /> <img src="https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" alt="AOSP" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41" alt="Yocto" /> <img src="https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41" alt="BLE/GATT" /> <img src="https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41" alt="FCM" /></td></tr>
+<tr><td><strong><code>Frameworks</code></strong></td>
+<td><img src="https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41" alt="Node.js" /> <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41" alt="React" /> <img src="https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41" alt="Angular" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41" alt="Qt" /></td></tr>
+<tr><td><strong><code>AI / ML</code></strong></td>
+<td><img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41" alt="scikit-learn" /> <img src="https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41" alt="NLP" /> <img src="https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41" alt="OCR" /></td></tr>
+<tr><td><strong><code>Infra & Cloud</code></strong></td>
+<td><img src="https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41" alt="AWS Lambda" /> <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker" /> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41" alt="MySQL" /> <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41" alt="Git" /></td></tr>
+<tr><td><strong><code>Certifications</code></strong></td>
+<td><img src="https://img.shields.io/badge/Python_%26_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41" alt="HackerRank" /> <img src="https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41" alt="IBM" /> <img src="https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB" /></td></tr>
+</table>
 
 </div>
 
