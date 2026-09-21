@@ -186,11 +186,11 @@ status: "🟢 ONLINE"
 <br />
 
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&cache_seconds=86400" height="160" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&cache_seconds=86400" height="160" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages" />
   </a>
 
   <br /><br />
@@ -202,7 +202,7 @@ status: "🟢 ONLINE"
   <br /><br />
 
   <a href="https://github.com/kartikeyasinha24">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasinha24&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%24%20git%20log%20--graph%20--oneline" width="95%" alt="Contribution Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyasinha24&theme=github_dark" width="95%" alt="Contribution Graph" />
   </a>
 
 </div>
