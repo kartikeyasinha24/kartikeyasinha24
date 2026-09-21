@@ -141,22 +141,32 @@ status: "🟢 ONLINE"
   <img src="https://img.shields.io/badge/%E2%96%B8_TECH__ARSENAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=003300" alt="Tech Arsenal" />
 </picture>
 
-<div align="center">
-<br />
-
-`Languages` · <img src="https://img.shields.io/badge/Kotlin-24292e?style=flat-square&logo=kotlin&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-24292e?style=flat-square&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SQL-24292e?style=flat-square&logo=postgresql&logoColor=00FF41" />
-
-`Mobile & Embedded` · <img src="https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Jetpack_Compose-24292e?style=flat-square&logo=jetpackcompose&logoColor=00FF41" /> <img src="https://img.shields.io/badge/AOSP-24292e?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-24292e?style=flat-square&logo=linux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/BLE%2FGATT-24292e?style=flat-square&logo=bluetooth&logoColor=00FF41" /> <img src="https://img.shields.io/badge/FCM-24292e?style=flat-square&logo=firebase&logoColor=00FF41" />
-
-`Frameworks` · <img src="https://img.shields.io/badge/Django-24292e?style=flat-square&logo=django&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Node.js-24292e?style=flat-square&logo=nodedotjs&logoColor=00FF41" /> <img src="https://img.shields.io/badge/React-24292e?style=flat-square&logo=react&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Angular-24292e?style=flat-square&logo=angular&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=qt&logoColor=00FF41" />
-
-`AI / ML` · <img src="https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logo=tensorflow&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Scikit--learn-24292e?style=flat-square&logo=scikitlearn&logoColor=00FF41" /> <img src="https://img.shields.io/badge/NLP-24292e?style=flat-square&logo=openai&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OCR-24292e?style=flat-square&logo=googlecloud&logoColor=00FF41" />
-
-`Infra & Cloud` · <img src="https://img.shields.io/badge/AWS_Lambda-24292e?style=flat-square&logo=awslambda&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB-24292e?style=flat-square&logo=mongodb&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MySQL-24292e?style=flat-square&logo=mysql&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=00FF41" />
-
-`Certifications` · <img src="https://img.shields.io/badge/Python_%26_Problem_Solving-24292e?style=flat-square&logo=hackerrank&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Data_Analysis-24292e?style=flat-square&logo=ibm&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB_Certified-24292e?style=flat-square&logo=mongodb&logoColor=00FF41" />
-
-</div>
+<table>
+  <tr>
+    <td width="22%"><b>▸ Languages</b></td>
+    <td><code>Kotlin</code> &nbsp; <code>Python</code> &nbsp; <code>C++</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript</code> &nbsp; <code>SQL</code></td>
+  </tr>
+  <tr>
+    <td><b>▸ Mobile & Embedded</b></td>
+    <td><code>Android</code> &nbsp; <code>Jetpack Compose</code> &nbsp; <code>AOSP</code> &nbsp; <code>Yocto</code> &nbsp; <code>BLE / GATT</code> &nbsp; <code>FCM</code></td>
+  </tr>
+  <tr>
+    <td><b>▸ Frameworks</b></td>
+    <td><code>Django</code> &nbsp; <code>Node.js</code> &nbsp; <code>React</code> &nbsp; <code>Angular</code> &nbsp; <code>Qt</code></td>
+  </tr>
+  <tr>
+    <td><b>▸ AI / ML</b></td>
+    <td><code>TensorFlow</code> &nbsp; <code>Scikit-learn</code> &nbsp; <code>NLP</code> &nbsp; <code>OCR</code></td>
+  </tr>
+  <tr>
+    <td><b>▸ Infra & Cloud</b></td>
+    <td><code>AWS Lambda</code> &nbsp; <code>Docker</code> &nbsp; <code>MongoDB</code> &nbsp; <code>MySQL</code> &nbsp; <code>Git</code></td>
+  </tr>
+  <tr>
+    <td><b>▸ Certifications</b></td>
+    <td><code>Python &amp; Problem Solving</code> &nbsp; <code>Data Analysis</code> &nbsp; <code>MongoDB Certified</code></td>
+  </tr>
+</table>
 
 <br />
 
