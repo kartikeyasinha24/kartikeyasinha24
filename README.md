@@ -107,20 +107,17 @@ status: "🟢 ONLINE"
 <div align="center">
 <br />
 
-<table>
-<tr><td><strong><code>Languages</code></strong></td>
-<td><img src="https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41" alt="Kotlin" /> <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41" alt="Python" /> <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41" alt="C++" /> <img src="https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41" alt="SQL" /></td></tr>
-<tr><td><strong><code>Mobile & Embedded</code></strong></td>
-<td><img src="https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" alt="Android" /> <img src="https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" alt="AOSP" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41" alt="Yocto" /> <img src="https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41" alt="BLE/GATT" /> <img src="https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41" alt="FCM" /></td></tr>
-<tr><td><strong><code>Frameworks</code></strong></td>
-<td><img src="https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41" alt="Node.js" /> <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41" alt="React" /> <img src="https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41" alt="Angular" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41" alt="Qt" /></td></tr>
-<tr><td><strong><code>AI / ML</code></strong></td>
-<td><img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41" alt="scikit-learn" /> <img src="https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41" alt="NLP" /> <img src="https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41" alt="OCR" /></td></tr>
-<tr><td><strong><code>Infra & Cloud</code></strong></td>
-<td><img src="https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41" alt="AWS Lambda" /> <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker" /> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41" alt="MySQL" /> <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41" alt="Git" /></td></tr>
-<tr><td><strong><code>Certifications</code></strong></td>
-<td><img src="https://img.shields.io/badge/Python_%26_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41" alt="HackerRank" /> <img src="https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41" alt="IBM" /> <img src="https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB" /></td></tr>
-</table>
+`Languages` · <img src="https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41" />
+
+`Mobile & Embedded` · <img src="https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Jetpack_Compose-0a0a0a?style=flat-square&logo=jetpackcompose&logoColor=00FF41" /> <img src="https://img.shields.io/badge/AOSP-0a0a0a?style=flat-square&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Yocto-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/BLE%2FGATT-0a0a0a?style=flat-square&logo=bluetooth&logoColor=00FF41" /> <img src="https://img.shields.io/badge/FCM-0a0a0a?style=flat-square&logo=firebase&logoColor=00FF41" />
+
+`Frameworks` · <img src="https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00FF41" /> <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=00FF41" />
+
+`AI / ML` · <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41" /> <img src="https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OCR-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FF41" />
+
+`Infra & Cloud` · <img src="https://img.shields.io/badge/AWS_Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41" />
+
+`Certifications` · <img src="https://img.shields.io/badge/Python_%26_Problem_Solving-0a0a0a?style=flat-square&logo=hackerrank&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Data_Analysis-0a0a0a?style=flat-square&logo=ibm&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MongoDB_Certified-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41" />
 
 </div>
 
@@ -188,17 +185,25 @@ status: "🟢 ONLINE"
 <div align="center">
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+  <a href="https://github.com/kartikeyasinha24">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikeyasinha24&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&cache_seconds=86400" height="160" alt="GitHub Stats" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
+  <a href="https://github.com/kartikeyasinha24">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages" />
+  </a>
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyasinha24&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
+  <a href="https://github.com/kartikeyasinha24">
+    <img src="https://streak-stats.demolab.com/?user=kartikeyasinha24&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00cc33&dates=006600" height="160" alt="GitHub Streak" />
+  </a>
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasinha24&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%24%20git%20log%20--graph%20--oneline" width="95%" alt="Contribution Graph" />
+  <a href="https://github.com/kartikeyasinha24">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasinha24&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%24%20git%20log%20--graph%20--oneline" width="95%" alt="Contribution Graph" />
+  </a>
 
 </div>
 
