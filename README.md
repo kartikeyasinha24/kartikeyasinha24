@@ -73,28 +73,28 @@ status: "🟢 ONLINE — Open to high-impact opportunities"
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  2026 ──────── Senior Android Developer @ ScanO – Pluton Technology    ║
-║                ├─ PDF rendering engine: 45% faster, 60 FPS, zero OOM  ║
-║                ├─ On-device compression pipeline: 40-70% size savings ║
-║                ├─ FCM push architecture: <100ms foreground delivery   ║
-║                └─ Modularized core SDK adopted across 3+ features     ║
+║  ◈ Senior Android Developer                                           ║
+║    ├─ PDF rendering engine: 45% faster, 60 FPS, zero OOM              ║
+║    ├─ On-device compression pipeline: 40–70% size savings             ║
+║    ├─ FCM push architecture: <100ms foreground delivery               ║
+║    └─ Modularized core SDK adopted across 3+ features                 ║
 ║                                                                        ║
-║  2024–2026 ─── Software Developer @ SAS ONE Private Limited            ║
-║                ├─ Android 14 firmware for i.MX 8M Plus SoM            ║
-║                ├─ Qualcomm W5+ wearable Android 11 apps               ║
-║                ├─ Scaled job-posting: 398 → 60,000+ jobs/week         ║
-║                └─ NL-to-SQL + OCR PDF intelligence for tenders        ║
+║  ◈ Software Developer – Embedded & Backend                             ║
+║    ├─ Android 14 firmware for i.MX 8M Plus SoM                        ║
+║    ├─ Qualcomm W5+ wearable Android 11 apps                           ║
+║    ├─ Scaled job-posting: 398 → 60,000+ jobs/week                     ║
+║    └─ NL-to-SQL + OCR PDF intelligence for tenders                    ║
 ║                                                                        ║
-║  2022–2024 ─── Senior Consultant @ PCITS Private Limited               ║
-║                ├─ BLE health wearable (HR, SpO2, respiratory, accel)  ║
-║                └─ NLP sentiment classifier + chatbot integrations     ║
+║  ◈ Senior Consultant                                                   ║
+║    ├─ BLE health wearable (HR, SpO2, respiratory, accel)              ║
+║    └─ NLP sentiment classifier + chatbot integrations                 ║
 ║                                                                        ║
-║  2021–2022 ─── Developer @ Rivan Analytics                             ║
-║                ├─ OAuth2 auth + real-time push notifications           ║
-║                └─ AWS Lambda refactoring & backend re-architecture     ║
+║  ◈ Developer                                                           ║
+║    ├─ OAuth2 auth + real-time push notifications                       ║
+║    └─ AWS Lambda refactoring & backend re-architecture                ║
 ║                                                                        ║
-║  2018 ──────── Developer Intern @ Aczel Info Services                  ║
-║                └─ Full-stack production websites                       ║
+║  ◈ Developer Intern                                                    ║
+║    └─ Full-stack production websites                                   ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
