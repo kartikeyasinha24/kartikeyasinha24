@@ -218,9 +218,9 @@ status: "🟢 ONLINE"
 <br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
-    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&hide=stars%2Cprs%2Cissues%2Ccontribs" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669&hide=stars%2Cprs%2Cissues%2Ccontribs" />
+    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&hide=stars%2Cprs%2Cissues%2Ccontribs" height="130" alt="GitHub Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
