@@ -6,8 +6,8 @@
 
   <!-- ░░░ HERO BANNER — DUAL THEME ADAPTIVE ░░░ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,25:f0fdf4,50:dcfce7,75:86efac,100:16a34a&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=065f46&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=047857&descAlignY=55&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a%2C25:0d1117%2C50:001a00%2C75:003300%2C100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C25:f0fdf4%2C50:dcfce7%2C75:86efac%2C100:16a34a&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=065f46&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=047857&descAlignY=55&animation=fadeIn" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:001a00,75:003300,100:00FF41&height=230&section=header&text=KARTIKEYA%20SINHA&fontSize=46&fontColor=00FF41&fontAlignY=33&desc=%E2%96%B8%20Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Embedded%20Linux%20%C2%B7%20Backend&descSize=15&descColor=00cc33&descAlignY=55&animation=fadeIn" width="100%" alt="Kartikeya Sinha Banner" />
   </picture>
 
@@ -218,9 +218,9 @@ status: "🟢 ONLINE"
 <br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
-    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=1e293b&ring_color=059669" />
+    <img src="https://github-readme-stats-two-brown-26.vercel.app/api?username=kartikeyasinha24&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cprs%2Cissues%2Ccontribs&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41" height="160" alt="GitHub Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
@@ -268,8 +268,8 @@ status: "🟢 ONLINE"
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,25:86efac,50:dcfce7,75:f0fdf4,100:ffffff&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41%2C25:003300%2C50:001a00%2C75:0d1117%2C100:0a0a0a&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a%2C25:86efac%2C50:dcfce7%2C75:f0fdf4%2C100:ffffff&height=120&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:003300,50:001a00,75:0d1117,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer Banner" />
 </picture>
 
