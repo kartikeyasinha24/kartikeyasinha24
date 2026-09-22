@@ -59,7 +59,7 @@ experience : 6+ years
 domains:
   - Android & Kotlin — Jetpack Compose, AOSP, PdfRenderer, Coroutines
   - Embedded Linux   — Yocto Kirkstone, i.MX 8M Plus, BLE/GATT
-  - Backend          — Python, Django, Node.js, AWS Lambda
+  - Backend          — Python, FastAPI, Django, Node.js, AWS Lambda
   - AI/ML            — NLP, OCR, TensorFlow, LLMs
 
 impact:
@@ -132,7 +132,7 @@ status: "🟢 ONLINE"
   </tr>
   <tr>
     <td><b>▸ Frameworks</b></td>
-    <td><code>Django</code> &nbsp; <code>Node.js</code> &nbsp; <code>React</code> &nbsp; <code>Angular</code> &nbsp; <code>Qt</code></td>
+    <td><code>FastAPI</code> &nbsp; <code>Django</code> &nbsp; <code>Node.js</code> &nbsp; <code>React</code> &nbsp; <code>Angular</code> &nbsp; <code>Qt</code></td>
   </tr>
   <tr>
     <td><b>▸ AI / ML</b></td>
