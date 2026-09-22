@@ -224,9 +224,9 @@ status: "🟢 ONLINE"
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&text_color=1e293b&langs_count=8" />
-    <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide=html&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide=html&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=059669&text_color=1e293b&langs_count=8" />
+    <img src="https://github-readme-stats-two-brown-26.vercel.app/api/top-langs/?username=kartikeyasinha24&layout=compact&count_private=true&hide=html&hide_border=false&border_color=00FF41&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="160" alt="Top Languages" />
   </picture>
 
   <br /><br />
